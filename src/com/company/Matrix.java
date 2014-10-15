@@ -5,6 +5,9 @@ import java.util.Scanner;
 
 public class Matrix {
 
+    /*
+    Create matrix of 0s and 1s staggered
+     */
     public int[][] createMatrix(int dim) {
 
         int i = 0;
